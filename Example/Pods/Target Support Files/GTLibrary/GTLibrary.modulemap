@@ -1,0 +1,6 @@
+framework module GTLibrary {
+  umbrella header "GTLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

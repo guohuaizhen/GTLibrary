@@ -1,0 +1,16 @@
+PODS:
+  - GTLibrary (0.1.0)
+
+DEPENDENCIES:
+  - GTLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  GTLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GTLibrary: 6f8f3cfa17cad104c64025d709167094b5ba3981
+
+PODFILE CHECKSUM: 440cb3769bb834ff208e46c907079d76e72db93d
+
+COCOAPODS: 1.5.3
