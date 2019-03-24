@@ -1,5 +1,5 @@
 PODS:
-  - GTLibrary (0.1.0)
+  - GTLibrary (0.1.1)
 
 DEPENDENCIES:
   - GTLibrary (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GTLibrary: 6f8f3cfa17cad104c64025d709167094b5ba3981
+  GTLibrary: 6da13374af9bf0deb445b0a5e4ad50a3d273adc4
 
 PODFILE CHECKSUM: 440cb3769bb834ff208e46c907079d76e72db93d
 

@@ -1,7 +1,7 @@
 {
   "name": "GTLibrary",
-  "version": "0.1.0",
-  "summary": "A short description of GTLibrary.",
+  "version": "0.1.1",
+  "summary": "Test Library.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/guohuaizhen/GTLibrary",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/guohuaizhen/GTLibrary.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
